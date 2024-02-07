@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7P4qlExDeWjyb5dob74JSIAmUN2xUP1704T59o9PJkYnnuthy/VcngmfgNICuq8cGroeW/ZyecJyDvYkysc3Q==",
+  "success": true,
+  "projectFilePath": "/Users/ozgurkara/Desktop/Dilek_Portfolio/TorontoHotel/TorontoHotel/TorontoHotel/TorontoHotel.csproj",
+  "expectedPackageFiles": [
+    "/Users/ozgurkara/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/Users/ozgurkara/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ozgurkara/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ozgurkara/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ozgurkara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ozgurkara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ozgurkara/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
